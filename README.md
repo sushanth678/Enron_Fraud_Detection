@@ -12,3 +12,8 @@ In this project, I built a person of interest identifier based on financial and 
 
 ## Result
 Displays the classification reports of Supervised classifiers for the given data, Training and Testing data change for every execution. Therefore, output changes for every execution. 
+## Sample Output
+
+![screen shot 2018-06-09 at 12 02 49 am](https://user-images.githubusercontent.com/14952297/41174880-f10793e6-6b78-11e8-9737-c503aafaf406.png)
+![screen shot 2018-06-09 at 12 03 04 am](https://user-images.githubusercontent.com/14952297/41174879-f0ce174c-6b78-11e8-934b-fe8455552835.png)
+![screen shot 2018-06-09 at 12 03 18 am](https://user-images.githubusercontent.com/14952297/41174878-f08ff57a-6b78-11e8-9d81-d4aa5cbeaed3.png)
